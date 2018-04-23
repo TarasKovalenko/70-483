@@ -88,7 +88,8 @@ The **WriteObject()** method accepts two parameters, a Location object and an
 **XmlObjectSerializer** object.
 The application includes the following code. (Line numbers are included for reference only.)
 
-// TODO
+![alt text](https://raw.githubusercontent.com/TarasKovalenko/70-483/master/assets/q4.png)
+
 
 You need to serialize the Location object as a JSON object.  
 Which code segment should you insert at line 20?  
